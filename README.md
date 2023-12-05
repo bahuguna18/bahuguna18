@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **atul.bahuguna100@gmail.com**
 
-- ⚡ Fun fact **In the arena of competitive programming, bugs are foes, algorithms are weapons, and every line of code is a strategic move toward victory. 💻🏆**
+- ⚡ Fun fact **-- In the arena of competitive programming, bugs are foes, algorithms are weapons, and every line of code is a strategic move toward victory. 💻🏆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
